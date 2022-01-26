@@ -1,0 +1,4 @@
+.idea
+virtualenv
+.python-version
+geckodriver.log
