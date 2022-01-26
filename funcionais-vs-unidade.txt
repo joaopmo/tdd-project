@@ -1,0 +1,5 @@
+Testes funcionais envolvem várias classes e pacotes distintos, inclusive dependências
+de sistemas reais, como bancos de dados e serviços remotos, logo são lentos e não são
+chamados frequentemente como os testes de unidade.
+
+Testes funcionais são mais complexos e frágeis que testes de unidade.
