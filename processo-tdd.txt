@@ -1,0 +1,6 @@
+O ciclo normal do TDD envolve 4 etapas: escrever testes, rodar os testes, escrever código básico e
+refatorar o código se necessário. Os testes devem ser rodados sempre que o código da aplicação
+é modificado, o código da aplicação deve ser modificado até os testes passarem.
+Caso o desenvolvimento possua testes mais complexos, funcionais, por exemplo, todos
+os passos anteriores podem ser considerados como a terceira etapa, escrita de código básico,
+de um ciclo identico, porém mais abrangente, envolvendo os testes mais complexos.
